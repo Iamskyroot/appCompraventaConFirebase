@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376957432969",
+    "project_id": "compra-e-intercambia",
+    "storage_bucket": "compra-e-intercambia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376957432969:android:345acfa9725fc0b5918258",
+        "android_client_info": {
+          "package_name": "com.example.compraeintercambia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376957432969-k601tg6bhqgjd8sk6bdf98l48a2jqkep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK98SwMsgrvFeEYZqxEOpqyd8nfQQzpLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376957432969-k601tg6bhqgjd8sk6bdf98l48a2jqkep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
